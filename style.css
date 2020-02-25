@@ -1,0 +1,102 @@
+.report-id-class{
+    text-align: right;
+    padding-right: 10px;
+}
+
+.main-box{
+    border: black 1px solid;
+    margin: 0 30%;
+}
+
+.college-icon{
+    margin: 0 auto;
+    display: block;
+}
+
+.university-details{
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+
+.marks-heading{
+    text-decoration: underline;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.half-screen-left{
+     width: 40%;
+     /* border: solid 1px green; */
+     display: inline-block;
+     padding: 0px;
+     margin-left: 2%;
+     margin-bottom: 0px; 
+}
+
+.half-screen-right{
+    width: 40%;
+    margin-left: 2%;
+    margin-bottom: 0px;
+    padding: 0px;
+    /* border: solid 1px red; */
+    display: inline-block;
+}
+
+.no-padding{
+    padding: 0px;
+    margin: 5px;
+    /* border: greenyellow 1px solid; */
+}
+
+.table-style{
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+}
+
+table{
+    min-height: 80%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-collapse: collapse;
+    border-bottom: 1px solid black;
+}
+
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* defining space between td */
+td{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 5px;
+    /* border: greenyellow solid 1px; */
+    padding: 10px;
+}
+.grade-class{
+    border-top: 1px solid black;
+    border-collapse: collapse;
+}
+
+.dated-div{
+    font-weight: bold;
+    margin: 1rem;
+    padding: 0px;
+    display: inline-block;
+    width: 50%;
+}
+
+.sign-div{
+    font-weight: bold;
+    margin: 1rem;
+    padding: 0px;
+    display: inline-block;
+    width: 40%;
+}
